@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Barcodereader</string>
+    <string name="version">V1.0</string>
+    <string name="slider_next">Next</string>
+    <string name="slider_skip">Skip</string>
+    <string name="slider_start">Start</string>
+    <string name="slider_1_title">Welcome to CHAVI</string>
+    <string name="slider_1_desc">Fiabilite Network\nSolutions Private Limited</string>
+    <string name="slider_2_title">How it works ?</string>
+    <string name="slider_2_desc">Showing scraped data..!\n\n1. Add the atleast one Keyword for searching and press next button.\n\n   2. Select the Newspapers and press the next button.</string>
+    <string name="slider_3_title">Features</string>
+    <string name="slider_3_desc">Showing the all newspapers information in standard format.\n\n.</string>
+    <string name="slider_4_title">Thank you</string>
+    <string name="slider_4_desc">Thank you for successfully installing the application.</string>
+    <string name="tag_line">Textile.</string>
+    <string name="scan">Scan</string>
+    <string name="press_back_again">Press back again to Exit</string>
+</resources>

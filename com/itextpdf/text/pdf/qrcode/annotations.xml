@@ -1,0 +1,5 @@
+<root>
+    <item name='com.itextpdf.text.pdf.qrcode.EncodeHintType'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
